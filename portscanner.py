@@ -20,7 +20,7 @@ clear()
 
 print("PORT SCANNER BY ZEESHAN ALI")
 
-print("\nGithub: https://github.com/0xMrR0b0t/TPScanner\n")
+print("\nGithub: https://github.com/ZEESHANALI-7/PortScanner\n")
 
 host = socket.gethostbyname(input("Enter Your ip/domain: "))
 
